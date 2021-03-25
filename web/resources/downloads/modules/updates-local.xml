@@ -85,5 +85,8 @@
     <module version="2.50" file="bpls/rameses-gov-etracs-bpls-fire.jar"  />
 
     <module version="2.50" file="queue/rameses-queueing.jar"  />
+
+    <!-- ctc --> 
+    <module version="2.50" file="ctc/rameses-gov-etracs-ctc.jar" />    
   </modules>
 </app>
